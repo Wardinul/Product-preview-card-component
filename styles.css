@@ -42,6 +42,7 @@ img{
     display: flex;
     background-color: white;
     max-width: 580px;
+    max-height: 440px;
     overflow: hidden;
     border-radius: 15px;
     margin: 0 1em;
